@@ -3,7 +3,7 @@
 This project focuses on detecting musculoskeletal abnormalities from X-ray images using deep learning. The goal is to train and compare multiple models to classify normal vs abnormal bone conditions.
 
 ---
-**College Mini Project** — completed as a team project with Avijeet Pal, Bhavya Singhal and Khushi Gupta.
+**College Mini Project 7th semester** — completed as a team project by Avijeet Pal, Bhavya Singhal and Khushi Gupta.
 ## 📌 Project Overview
 
 - Developed a **deep learning pipeline** for X-ray image classification.
@@ -40,5 +40,5 @@ This project focuses on detecting musculoskeletal abnormalities from X-ray image
 | MobileNetV2      | 84%      |
 | MobileNetV3-L    | 88%      |
 
-> Trained model weights are **not included**. You can train your own using the notebooks.
+> Trained model Simple CNN weights are **not included**. You can train your own using the notebooks.
 
